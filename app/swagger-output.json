@@ -5,7 +5,7 @@
     "title": "REST API",
     "description": ""
   },
-  "host": "https://coderscamp2021-backend-pets.herokuapp.com",
+  "host": "coderscamp2021-backend-pets.herokuapp.com",
   "basePath": "/",
   "schemes": [
     "http"
