@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node app/index.js",
+    "start": "node --experimental-json-modules app/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "nodemon --experimental-json-modules app/index.js -e js,json",
     "swagger": "node app/swagger.js"
