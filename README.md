@@ -24,7 +24,7 @@ The aim of the project was to gain practical skills in Node.js, creating REST AP
 1. You can clone the repository, install the dependencies with `npm install` and run the app with `npm run start`
    
 
-2. You can also just use the production version of the application available at [https://coderscamp2021-backend-pets.herokuapp.com/](https://coderscamp2021-backend-pets.herokuapp.com/)
+2. You can also just use the production version of the application available at [https://coderscamp2021-backend-pets.herokuapp.com/doc](https://coderscamp2021-backend-pets.herokuapp.com/doc)
 
 For both options be aware that you have to
 
